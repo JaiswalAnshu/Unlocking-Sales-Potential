@@ -42,5 +42,3 @@ We welcome contributions from the community to enhance and improve this Power BI
 2. Microsoft Power BI 
 3. Microsoft Excel
 
-
-
